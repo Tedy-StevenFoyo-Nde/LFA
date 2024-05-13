@@ -28,3 +28,4 @@ for i in range(0, 4):
         ciphertext = ciphertext.replace(list1[i], list2[i])
         replaced_chars.append(list2[i])
 print(ciphertext)
+print("testons voir si ca marche")
